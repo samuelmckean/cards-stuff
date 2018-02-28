@@ -1,3 +1,6 @@
+# Script that uses the Card class and random module to create a standard deck of 52 cards, shuffle it, then draw the top 4 cards
+# from the deck.
+
 # import Card class
 import Card
 
