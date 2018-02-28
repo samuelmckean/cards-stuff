@@ -1,3 +1,6 @@
+# Module that defines the Card class with datafields suit and rank. Contains methods getSuit, getRank, and getCard which return
+# card suit, card rank, and print the rank and suit, respectively.
+
 # create card class
 class Card:
     def __init__(self, cardNumber):
